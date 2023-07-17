@@ -1,0 +1,15 @@
+D:\Документы\Учеба\Учеба ГБ\FCV\bin\Debug\net6.0\FCV.exe
+D:\Документы\Учеба\Учеба ГБ\FCV\bin\Debug\net6.0\FCV.deps.json
+D:\Документы\Учеба\Учеба ГБ\FCV\bin\Debug\net6.0\FCV.runtimeconfig.json
+D:\Документы\Учеба\Учеба ГБ\FCV\bin\Debug\net6.0\FCV.dll
+D:\Документы\Учеба\Учеба ГБ\FCV\bin\Debug\net6.0\FCV.pdb
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\FCV.csproj.AssemblyReference.cache
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\FCV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\FCV.AssemblyInfoInputs.cache
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\FCV.AssemblyInfo.cs
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\FCV.csproj.CoreCompileInputs.cache
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\FCV.dll
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\refint\FCV.dll
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\FCV.pdb
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\FCV.genruntimeconfig.cache
+D:\Документы\Учеба\Учеба ГБ\FCV\obj\Debug\net6.0\ref\FCV.dll
